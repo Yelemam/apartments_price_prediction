@@ -1,4 +1,3 @@
-# apartments_price_prediction
 # **Apartment Rental Price Prediction: A Machine Learning Approach**
 
 ## **Overview**
@@ -37,6 +36,8 @@ The dataset was first loaded into a Spark DataFrame, enabling efficient handling
 ---
 
 ## **Models and Results**
+![NeuralNetworkComparison](https://github.com/user-attachments/assets/5e71234e-aae4-44c4-99b3-f3dcbff8dd0a)
+
 ### **1. Neural Networks**
 - **Enhanced Neural Network**:
   - R-squared: **0.6444**
@@ -46,6 +47,9 @@ The dataset was first loaded into a Spark DataFrame, enabling efficient handling
   - Despite regularization and optimization, performance fell short of the rubric’s threshold.
 
 ### **2. Random Forest**
+
+![RandomForestComparison](https://github.com/user-attachments/assets/21a5d25f-71f3-45e4-bd1b-a24b88fca7e7)
+
 - **Initial Model**:
   - R-squared: **0.8049**
 - **Fine-Tuned Model**:
@@ -55,6 +59,8 @@ The dataset was first loaded into a Spark DataFrame, enabling efficient handling
     - `max_depth`: 60
 - **Outcome**:
   - Random Forest emerged as the best-performing model, surpassing the R-squared benchmark of 0.80.
+
+![ModelRSquaredComparison](https://github.com/user-attachments/assets/4d51fac7-e202-4edd-8557-520c2bfa1c43)
 
 ### **3. Linear Regression**
 - R-squared: **0.7256**
