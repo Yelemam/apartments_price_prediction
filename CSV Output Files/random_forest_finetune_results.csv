@@ -1,0 +1,5 @@
+Iteration,Parameters,MSE,R-squared
+1,"{'n_estimators': 200, 'max_depth': 40, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_features': 'sqrt'}",149271.13025191764,0.7758024068271229
+2,"{'n_estimators': 300, 'max_depth': 50, 'min_samples_split': 3, 'min_samples_leaf': 1, 'max_features': 'sqrt'}",150639.09526549376,0.773747793432886
+3,"{'n_estimators': 400, 'max_depth': None, 'min_samples_split': 5, 'min_samples_leaf': 2, 'max_features': 'log2'}",167907.89287289215,0.7478109437953553
+4,"{'n_estimators': 500, 'max_depth': 60, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_features': None}",129631.31100107195,0.8053004095484722

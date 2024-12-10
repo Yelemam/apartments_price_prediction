@@ -1,0 +1,2 @@
+n_estimators,max_depth,random_state,MSE,R-squared
+100,,42,129886.12627934299,0.8049176900500961
