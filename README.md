@@ -176,7 +176,7 @@ Thank you for being part of this journey!
 ---
 
 ## **Contributors**
-Chinna Maijala, Kimberly Her, Yara El-Emam, Zane Huttinga
+Yara El-Emam, Chinna Maijala, Kimberly Her, Zane Huttinga
 
 ---
 
